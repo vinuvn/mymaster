@@ -1,0 +1,5 @@
+my favourites are listed bellow
+place: pathanamthitta
+food:anything 
+movie:
+ 
